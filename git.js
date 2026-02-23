@@ -1,2 +1,2 @@
 let= 5;
-string ="hero";
+console.log("hello world");
